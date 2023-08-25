@@ -85,6 +85,6 @@ class AndroidSpecialParameter {
         'restoreBond': restoreBond,
         'startAsForegroundService': startAsForegroundService,
         'dataDelay': dataDelay,
-        'numberOfRetries': numberOfRetries
+        'numberOfRetries': numberOfRetries,
       };
 }
