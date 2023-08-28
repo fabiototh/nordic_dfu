@@ -9,7 +9,10 @@ dependencies:
   collection: ^1.16.0
   flutter:
     sdk: flutter
-  flutter_blue: ^0.8.0
+  flutter_blue: 
+    git:
+      url: https://github.com/TOTHLIFECARE/flutter_blue
+      ref: will-restore-state
   nordic_dfu:
     path: ../
   permission_handler: ^10.2.0
